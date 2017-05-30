@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Diplomata');
+    
+header {background-color:#90ee90;
+    height: 60px;
+border: 2px solid #696969;
+    
+}
+
+h1, h2 {font-family:'Diplomata', cursive;
+    text-align: center; color: #696969;
+    padding-bottom: 15px;
+}
