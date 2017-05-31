@@ -20,8 +20,8 @@ h2 {
 
 
 div {
-    width: 600px;
+    width: 400px;
     margin: auto;
 }
-h3, .paragraph {font-family: 'Oregano', cursive;
+h3, .paragraph, li {font-family: 'Oregano', cursive;
     text-align: left;}
