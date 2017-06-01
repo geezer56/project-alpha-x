@@ -8,8 +8,7 @@ header {
     background-color: #90ee90;
     height: 100px;
     border: 2px solid #696969;
-    padding-bottom: 20px;
-}
+    padding-bottom: 20px}
 
 h1,
 h2 {
@@ -17,11 +16,13 @@ h2 {
     text-align: center;
     color: #696969;
 }
-
-
-div {
-    width: 400px;
-    margin: auto;
+div{width:750px;
+margin:auto}
+    
+.container {width:550px;
+    margin:auto;
 }
-h3, .paragraph, li {font-family: 'Oregano', cursive;
-    text-align: left;}
+h3 {font-size: 42px;}
+h3, p, li {font-family: 'Oregano', cursive;
+    text-align: left;
+font-size: 24px;}
