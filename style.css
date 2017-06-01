@@ -17,12 +17,22 @@ h2 {
     color: #696969;
 }
 div{width:750px;
-margin:auto}
+margin:auto
+}
     
 .container {width:550px;
-    margin:auto;
+    margin:auto; 
+    border-bottom: 2px;
+    border-bottom-color:#696969;
 }
 h3 {font-size: 42px;}
 h3, p, li {font-family: 'Oregano', cursive;
     text-align: left;
 font-size: 24px;}
+p.center {text-align: center;} 
+
+hr {height: 4px;
+  background-color: #90ee90;
+  border: 2px #696969;
+    width:750px;
+}
