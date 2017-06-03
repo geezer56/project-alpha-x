@@ -30,13 +30,18 @@ h3, p, li {font-family: 'Oregano', cursive;
     text-align: left;
 font-size: 24px;}
 p.center {text-align: center;} 
+.font {font-size: 12px;}
 
 hr {height: 4px;
   background-color: #90ee90;
   border: 2px #696969;
     width:750px;
 }
+a:link    { color: blue;  }
+a:visited { color: red;   }
+a:hover   { color: green; }
+a:active  { color: pink;  }
+
 footer {height: 100px;
     background-color: #90ee90;
 border: 2px solid #696969;}
-iframe{100%}
